@@ -1,0 +1,8 @@
+A square is a geometric shape that belongs to the family of quadrilaterals, which are four-sided polygons. It is a regular polygon, which means that all four of its sides are of equal length, and all four of its angles are right angles, measuring 90 degrees each.
+
+In a square:
+
+All four sides are parallel to each other.
+All four angles are congruent (equal) and measure 90 degrees.
+The diagonals of a square bisect each other at right angles, dividing the square into four congruent right triangles.
+Visually, a square looks like a flat, two-dimensional shape with straight sides and sharp corners. It has a symmetrical and balanced appearance due to its equal sides and angles, making it a fundamental and easily recognizable shape in geometry. Squares are commonly used in various mathematical and practical contexts, from architecture and design to mathematics and engineering.
