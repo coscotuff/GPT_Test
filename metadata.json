@@ -1,0 +1,54 @@
+{
+    "name": "root",
+    "type": "directory",
+    "children": [
+        {
+            "name": "c-shape-box",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "A1.txt",
+                    "type": "file",
+                    "Description": "File containing description of a square"
+                },
+                {
+                    "name": "A2.txt",
+                    "type": "file"
+                    "Description": "File containing description of a circle"
+                }
+            ]
+        },
+        {
+            "name": "B",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "B1.txt",
+                    "type": "file",
+                    "Description": "File containing description of the colour red"
+                },
+                {
+                    "name": "B2.txt",
+                    "type": "file"
+                    "Description": "File containing description of the colour blue"
+                }
+            ]
+        },
+        {
+            "name": "C",
+            "type": "directory",
+            "children": [
+                {
+                    "name": "C1.txt",
+                    "type": "file",
+                    "Description": "File containing description of the subject DBMS"
+                },
+                {
+                    "name": "C2.txt",
+                    "type": "file"
+                    "Description": "File containing description of the subject OS"
+                }
+            ] 
+        }
+    ]
+}
