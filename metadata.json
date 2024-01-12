@@ -3,7 +3,17 @@
     "type": "directory",
     "children": [
         {
-            "name": "c-shape-box",
+            "name": "README.md",
+            "type": "file",
+            "Description": "README file of the repository"
+        },
+        {
+            "name": "LICENSE",
+            "type": "file",
+            "Description": "File containing the LICENSE of the repository"
+        },
+        {
+            "name": "A",
             "type": "directory",
             "children": [
                 {
