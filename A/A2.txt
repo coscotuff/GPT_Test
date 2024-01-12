@@ -1,0 +1,17 @@
+A circle is a geometric shape that is defined as a set of points in a two-dimensional plane that are all equidistant from a central point. In other words, if you were to measure the distance from any point on the boundary of the circle to its center, you would find that this distance is the same for all points. This constant distance is called the radius of the circle.
+
+A circle is often represented by the symbol "O" or by drawing a simple closed curve that has no corners or edges. The distance across the circle through its center, passing through any two points on its boundary, is called the diameter. The diameter is always twice the length of the radius.
+
+Circles have several important properties and characteristics, including:
+
+Circumference: The circumference of a circle is the distance around its boundary. It can be calculated using the formula C = 2πr, where "C" represents the circumference, and "r" represents the radius.
+
+Area: The area of a circle can be calculated using the formula A = πr^2, where "A" represents the area, and "r" represents the radius.
+
+Symmetry: A circle possesses an infinite number of axes of symmetry, meaning it can be divided into two equal halves by any line passing through its center.
+
+Constant curvature: The curvature of a circle remains constant, meaning that at any point on its boundary, the curvature (or rate of change of direction) is the same.
+
+360 degrees: The total angle measure of the interior of a circle is 360 degrees. This property is often used in geometry and trigonometry.
+
+Circles are fundamental shapes in mathematics and have applications in various fields such as geometry, trigonometry, physics, and engineering. They are also commonly encountered in everyday objects, from wheels and coins to clock faces and the sun, which is often approximated as a circle in many diagrams.
