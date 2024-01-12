@@ -1,6 +1,7 @@
 {
     "name": "root",
     "type": "directory",
+    "Description": "Root directory of the repository",
     "children": [
         {
             "name": "README.md",
